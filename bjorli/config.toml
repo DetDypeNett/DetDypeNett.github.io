@@ -1,0 +1,4 @@
+baseURL = 'http://dypnet.no/'
+languageCode = 'en-us'
+title = 'Dypnet'
+theme = 'blackburn'
